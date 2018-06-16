@@ -6,7 +6,7 @@
       <a href="https://dev.to/aspittel" class="social-link dev-to">
         <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ali Spittel's DEV Profile" class="dev-to-img"/>
       </a>
-      <a href="https://github.com/brajkishor97.github.io" class="social-link" title="Github"><i class="fa fa-github purple" aria-hidden="true"></i></a>
+      <a href="https://github.com/brajkishor27.github.io" class="social-link" title="Github"><i class="fa fa-github purple" aria-hidden="true"></i></a>
       <a href="https://www.linkedin.com/in/braj-kishor-230334152/" class="social-link" title="Linkedin"><i class="fa fa-linkedin dark-blue" aria-hidden="true"></i></a>
       <a href="mailto:kumarbrajkishor96@gmail.com" class="social-link" title="email me"><i class="fa fa-envelope red" aria-hidden="true"></i></a>
       <a href="https://medium.com/on-learning-new-things" class="social-link" title="Medium"><i class="fa fa-medium green" aria-hidden="true"></i></a>
